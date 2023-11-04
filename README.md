@@ -18,7 +18,6 @@ by your keyboard, each of these special weapons have their own unique controls.
 I hope that you will have fun on this little game as much as I did!
 
 ## Full Gameplay Video
-![Gameplay](videos/full-gameplay.mp4)
 
 ## Installation Guide
 
