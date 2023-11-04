@@ -17,7 +17,9 @@ by your keyboard, each of these special weapons have their own unique controls.
 
 I hope that you will have fun on this little game as much as I did!
 
-## Full Gameplay Video
+## Gameplay Video
+
+https://github.com/LongcatOwO/SpaceGlider/assets/115549144/58144974-d6f5-4e53-8ece-f8cc0b546393
 
 ## Installation Guide
 
